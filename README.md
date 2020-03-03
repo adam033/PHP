@@ -111,16 +111,58 @@ ________________________________________________________________________________
  
 ### **Latihan Modul 2**
 #### Latihan 1
-Latihan1 mempelajari tentang cara membuat **array** dan cara kita memanggilnya sesuai dengan data yang kita inginkan dan cara mengisi/input data pada **array** yang telah kita buat.
-![Alt Text](https://github.com/adam033/PHP/blob/master/1.1.JPG)
+Latihan1 mempelajari tentang cara membuat beberapa variabel untuk dioperasikan menggunakan **operator aritmatika** dan dimunculkan menggunakan syntax **echo**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/11.JPG)
 
 #### Latihan 2
-Latihan2 mempelajari tentang cara menambahkan nilai pada **array** dan memanggil array tersebut untuk kita tampilkan menggunakan syntax **echo**.
-![Alt Text](https://github.com/adam033/PHP/blob/master/1.2.JPG)
+Latihan2 mempelajari tentang cara menyebandingkan antara dua variabel angka menggunakan **Operator perbandingan** apabila sama maka akan muncul kata **x sama dengan y** apabila salah akan muncul kata **x tidak sama dengan salah**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/12.JPG)
 
 #### Latihan 3
-Latihan3 mempelajari cara membuat variabel **array** warna dan menampilkanya dengan method **foreach** kemudian ditampilkan dengan syntax **echo** dan output berupa font berwarna sesuai dengan **array**.
-![Alt Text](https://github.com/adam033/PHP/blob/master/1.3.JPG)
+Latihan3 mempelajari mempelajari tentang contoh penerapan method **Postfix** dan **Prefix** dalam **Operasi Aritmetika**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/13.JPG)
+
+#### Latihan 4
+Latihan4 mempelajari tentang contoh penerapan method **Postfix** dan **Prefix** **Decrement(++)/Increment(--)** dalam **Operasi Aritmetika**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/14.JPG)
+
+#### Latihan 5
+Latihan5 mempelajari tentang cara menyebandingkan antara dua variabel angka menggunakan **Operator perbandingan** apabila sama maka akan muncul kata **DATA BENAR** apabila salah akan muncul kata **DATA SALAH**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/15.JPG)
+
+#### Latihan 6
+Latihan6 mempelajari tentang cara menyebandingkan antara dua variabel angka menggunakan **Operator perbandingan** apabila sama maka akan muncul kata **DATA BENAR** apabila salah akan muncul kata **DATA SALAH**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/16.JPG)
+
+#### Latihan 7
+Latihan7 mempelajari tentang membuat data **array** warna dan **array** nama buah dan kemudian dipanggil sesuai dengan nomor array sehingga memunculkan nama buah dan warna buah dengan syntax **echo**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/17.JPG)
+
+#### Latihan 8
+Latihan8 mempelajari tentang cara membuat **array** nilai serta mempelajari dua cara berbeda untuk mengisi data daripada **array** tersebut dan kemudian memanggilnya dengan syntax **echo**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/18.JPG)
+
+#### Latihan 9
+Latihan9 Mempelajari tentang cara membuat **array** warna dan kemudian memunculkan warnanya dengan method **foreach** dan membuat output dari **array** tersebut dalam wujud font dengan warna sesuai data **array** yang kita buat menggunakan syntax **echo**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/19.JPG)
+
+#### Latihan 10
+Latihan10 Mempelajari tentang cara membuat **array** dan kemudia menampilkanya dengan method **WHILE , FOREACH dan LIST** dengan menggunakan syntax **echo**.
+![Alt Text](https://github.com/adam033/PHP/blob/master/20.JPG)
+
+
+
+________________________________________________________________________________________
+SEMOGA BERMANFAAT :D
+
+
+by : adam himawan
+
+
+
+
+
+`
 
 
 
